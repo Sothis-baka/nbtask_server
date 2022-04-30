@@ -1,0 +1,17 @@
+{
+  "name": "nb_task_server",
+  "version": "1.0.0",
+  "description": "Server for nb task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Sothis_baka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1",
+    "socket.io": "^4.5.0"
+  }
+}
